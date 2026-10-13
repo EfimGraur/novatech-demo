@@ -215,3 +215,5 @@ Two PRs are available for the MCP/GitHub integration demo:
 ## License
 
 Educational project for Pluralsight. All rights reserved.
+
+Last updated: 2026-10-13
